@@ -1,0 +1,1 @@
+class HelloWorld : UnityEngine.MonoBehaviour { void Start() => UnityEngine.Debug.Log("Hello"); }
